@@ -3,6 +3,7 @@ public class First{
         System.out.println("Hello,Good Morning All of You");
         System.out.println("Good");
         System.out.println("BAD");
+        System.out.println("NICE");
         
     }
 }
